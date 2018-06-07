@@ -3,10 +3,10 @@ import java.util.Scanner;
 public class Ej08_Fecha {
 
     // Declaración de constantes.
-    static  final int SEMANA_DIA = 7;
-    static  final int DIA_HORA = 24;
-    static  final int HORA_MINUTO = 60;
-    static  final int MINUTO_SEGUNDO = 60;
+    static final int SEMANA_DIA = 7;
+    static final int DIA_HORA = 24;
+    static final int HORA_MINUTO = 60;
+    static final int MINUTO_SEGUNDO = 60;
 
     public static void main(String[] args) {
         // Declaración de variables.
