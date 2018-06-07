@@ -1,3 +1,4 @@
+import java.util.Locale;
 import java.util.Scanner;
 
 public class Ej06_NumeroReal {
@@ -6,6 +7,7 @@ public class Ej06_NumeroReal {
         double valor,decimal;
         int entero;
         Scanner entrada = new Scanner(System.in);
+        entrada.useLocale(Locale.ENGLISH);
 
         // Información del programa.
         System.out.println("Este programa separa la parte decimal de la entera de un double.");
