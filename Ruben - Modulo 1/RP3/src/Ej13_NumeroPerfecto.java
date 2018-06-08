@@ -11,7 +11,7 @@ public class Ej13_NumeroPerfecto {
             for (int i = 1; i <= num / 2; i++)
                 if (num % i == 0)
                     suma += i;
-            
+
             if (suma == num)
                 encontrado = true;
             else

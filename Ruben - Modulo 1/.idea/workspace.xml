@@ -12,29 +12,86 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Ej11_FacturaElectrica.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RP3/src/Ej11_FacturaElectrica.java">
+      <file leaf-file-name="Ej09_TableroAjedrez.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RP4/src/Ej09_TableroAjedrez.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
-              <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
+            <state relative-caret-position="170">
+              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Ej12_CodigosNumericos.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RP3/src/Ej12_CodigosNumericos.java">
+      <file leaf-file-name="Ej10_CalcularPi.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RP4/src/Ej10_CalcularPi.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+              <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Ej13_NumeroPerfecto.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/RP3/src/Ej13_NumeroPerfecto.java">
+      <file leaf-file-name="Ej11_Fibonacci.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RP4/src/Ej11_Fibonacci.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+            <state relative-caret-position="187">
+              <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ej12_InformacionSecuencia.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RP4/src/Ej12_InformacionSecuencia.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="23" column="92" selection-start-line="23" selection-start-column="92" selection-end-line="23" selection-end-column="92" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ej13_SumaPrimos.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RP4/src/Ej13_SumaPrimos.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="74" selection-start-line="11" selection-start-column="74" selection-end-line="11" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ej14_SegundoMayor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RP4/src/Ej14_SegundoMayor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="89">
+              <caret line="12" column="74" selection-start-line="12" selection-start-column="74" selection-end-line="12" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ej15_BuscarNumero.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RP4/src/Ej15_BuscarNumero.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ej16_AcertarNumero.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RP4/src/Ej16_AcertarNumero.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="19" column="106" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="106" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ej17_JuegoRetirarValor.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RP4/src/Ej17_JuegoRetirarValor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -66,11 +123,25 @@
         <option value="$PROJECT_DIR$/RP3/src/Ej11_FacturaElectrica.java" />
         <option value="$PROJECT_DIR$/RP3/src/Ej12_CodigosNumericos.java" />
         <option value="$PROJECT_DIR$/RP3/src/Ej13_NumeroPerfecto.java" />
+        <option value="$PROJECT_DIR$/RP4/src/Ej04_EncontrarNumero.java" />
+        <option value="$PROJECT_DIR$/RP4/src/Ej05_EncontrarNumero.java" />
+        <option value="$PROJECT_DIR$/RP4/src/Ej06_SumaRestos.java" />
+        <option value="$PROJECT_DIR$/RP4/src/Ej07_DigitosPares.java" />
+        <option value="$PROJECT_DIR$/RP4/src/Ej08_PrecioMedioCoche.java" />
+        <option value="$PROJECT_DIR$/RP4/src/Ej09_TableroAjedrez.java" />
+        <option value="$PROJECT_DIR$/RP4/src/Ej10_CalcularPi.java" />
+        <option value="$PROJECT_DIR$/RP4/src/Ej11_Fibonacci.java" />
+        <option value="$PROJECT_DIR$/RP4/src/Ej15_BuscarNumero.java" />
+        <option value="$PROJECT_DIR$/RP4/src/Ej14_SegundoMayor.java" />
+        <option value="$PROJECT_DIR$/RP4/src/Ej13_SumaPrimos.java" />
+        <option value="$PROJECT_DIR$/RP4/src/Ej12_InformacionSecuencia.java" />
+        <option value="$PROJECT_DIR$/RP4/src/Ej16_AcertarNumero.java" />
+        <option value="$PROJECT_DIR$/RP4/src/Ej17_JuegoRetirarValor.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1133" />
+    <option name="width" value="1221" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectView">
@@ -78,8 +149,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -95,6 +167,12 @@
             <path>
               <item name="Ruben - Modulo 1" type="b2602c69:ProjectViewProjectNode" />
               <item name="Ruben - Modulo 1" type="462c0819:PsiDirectoryNode" />
+              <item name="RP1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ruben - Modulo 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ruben - Modulo 1" type="462c0819:PsiDirectoryNode" />
               <item name="RP3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -103,15 +181,28 @@
               <item name="RP3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Ruben - Modulo 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ruben - Modulo 1" type="462c0819:PsiDirectoryNode" />
+              <item name="RP4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ruben - Modulo 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ruben - Modulo 1" type="462c0819:PsiDirectoryNode" />
+              <item name="RP4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -125,30 +216,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ej13_NumeroPerfecto">
-    <configuration name="Ej06_CompraArticulos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ej06_CompraArticulos" />
-      <module name="RP3" />
+  <component name="RunManager" selected="Application.Ej16_AcertarNumero">
+    <configuration name="Ej12_InformacionSecuencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ej12_InformacionSecuencia" />
+      <module name="RP4" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Ej09_FormatearFecha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ej09_FormatearFecha" />
-      <module name="RP3" />
+    <configuration name="Ej13_SumaPrimos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ej13_SumaPrimos" />
+      <module name="RP4" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Ej11_FacturaElectrica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ej11_FacturaElectrica" />
-      <module name="RP3" />
+    <configuration name="Ej14_SegundoMayor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ej14_SegundoMayor" />
+      <module name="RP4" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Ej12_CodigosNumericos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ej12_CodigosNumericos" />
-      <module name="RP3" />
+    <configuration name="Ej15_BuscarNumero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ej15_BuscarNumero" />
+      <module name="RP4" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Ej13_NumeroPerfecto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ej13_NumeroPerfecto" />
-      <module name="RP3" />
+    <configuration name="Ej16_AcertarNumero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ej16_AcertarNumero" />
+      <module name="RP4" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -193,19 +284,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Ej06_CompraArticulos" />
-      <item itemvalue="Application.Ej09_FormatearFecha" />
-      <item itemvalue="Application.Ej11_FacturaElectrica" />
-      <item itemvalue="Application.Ej12_CodigosNumericos" />
-      <item itemvalue="Application.Ej13_NumeroPerfecto" />
+      <item itemvalue="Application.Ej12_InformacionSecuencia" />
+      <item itemvalue="Application.Ej13_SumaPrimos" />
+      <item itemvalue="Application.Ej14_SegundoMayor" />
+      <item itemvalue="Application.Ej15_BuscarNumero" />
+      <item itemvalue="Application.Ej16_AcertarNumero" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ej13_NumeroPerfecto" />
-        <item itemvalue="Application.Ej12_CodigosNumericos" />
-        <item itemvalue="Application.Ej11_FacturaElectrica" />
-        <item itemvalue="Application.Ej09_FormatearFecha" />
-        <item itemvalue="Application.Ej06_CompraArticulos" />
+        <item itemvalue="Application.Ej16_AcertarNumero" />
+        <item itemvalue="Application.Ej15_BuscarNumero" />
+        <item itemvalue="Application.Ej14_SegundoMayor" />
+        <item itemvalue="Application.Ej13_SumaPrimos" />
+        <item itemvalue="Application.Ej12_InformacionSecuencia" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +314,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1133" height="1040" extended-state="0" />
+    <frame x="0" y="0" width="1221" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -235,11 +326,11 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31545064" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32081544" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30975828" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28713694" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -257,7 +348,42 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/RP4/src/Ej08_PrecioMedioCoche.java</url>
+          <line>3</line>
+          <properties class="Ej08_PrecioMedioCoche" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/RP3/src/Ej11_FacturaElectrica.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP3/src/Ej12_CodigosNumericos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP3/src/Ej13_NumeroPerfecto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/RP1/src/Ej03_Suma.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -290,9 +416,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -314,9 +437,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -373,9 +493,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -435,10 +552,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RP3/src/Ej11_FacturaElectrica.java">
+    <entry file="file://$PROJECT_DIR$/RP3/src/Ej13_NumeroPerfecto.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
@@ -449,12 +566,181 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RP3/src/Ej13_NumeroPerfecto.java">
+    <entry file="file://$PROJECT_DIR$/RP3/src/Ej11_FacturaElectrica.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        <state relative-caret-position="680">
+          <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/RP4/src/Ej05_EncontrarNumero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP4/src/Ej06_SumaRestos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP4/src/Ej07_DigitosPares.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="42" lean-forward="true" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP4/src/Ej08_PrecioMedioCoche.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="38" lean-forward="true" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP4/src/Ej09_TableroAjedrez.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP4/src/Ej13_SumaPrimos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="74" selection-start-line="11" selection-start-column="74" selection-end-line="11" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP4/src/Ej12_InformacionSecuencia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="23" column="92" selection-start-line="23" selection-start-column="92" selection-end-line="23" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP4/src/Ej11_Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP4/src/Ej10_CalcularPi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP4/src/Ej14_SegundoMayor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="12" column="74" selection-start-line="12" selection-start-column="74" selection-end-line="12" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP4/src/Ej15_BuscarNumero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP4/src/Ej16_AcertarNumero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="19" column="106" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP4/src/Ej17_JuegoRetirarValor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>RP4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
