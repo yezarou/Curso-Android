@@ -32,5 +32,7 @@ public class Ej14_SegundoMayor {
             System.out.println("Todos los números introducidos eran iguales.");
         else
             System.out.println("El segundo mayor de esta secuencia es: " + segundoMayor);
+
+        entrada.close();
     }
 }

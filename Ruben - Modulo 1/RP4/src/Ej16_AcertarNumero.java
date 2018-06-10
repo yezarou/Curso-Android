@@ -38,5 +38,7 @@ public class Ej16_AcertarNumero {
                 }
             } while (respuesta != 0 && respuesta != -1 && respuesta != 1);
         } while (!correcto);
+
+        entrada.close();
     }
 }
