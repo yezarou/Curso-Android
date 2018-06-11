@@ -32,6 +32,9 @@ Proyectos del [Curso Android](http://www.titulacionespropias.uma.es/informacion_
 15 - Muestra la primera y última ocurrencia de un número en una secuencia.  
 16 - Piensa un número y la máquina debe acertar.  
 17 - Juego contra la máquina de retirar 1-3 objetos.
+### Quinta relación de problemas
+0 - Calcular el número combinatorio.  
+1 - Dibujar un triangulo.
 ## Módulo 2 - Introducción a la Programación Orientada a Objetos
 ## Módulo 3 - Introducción a Android
 ## Módulo 4 - Fundamentos de las aplicaciones Android
