@@ -35,6 +35,10 @@ Proyectos del [Curso Android](http://www.titulacionespropias.uma.es/informacion_
 ### Quinta relación de problemas
 0 - Calcular el número combinatorio.  
 1 - Dibujar un triangulo.
+### Examen 1
+1 - Algoritmo multiplicador-multiplicando.  
+2 - Impares consecutivos.  
+3 - Calcular la raiz n-ésima.
 ## Módulo 2 - Introducción a la Programación Orientada a Objetos
 ## Módulo 3 - Introducción a Android
 ## Módulo 4 - Fundamentos de las aplicaciones Android
