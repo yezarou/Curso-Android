@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ej00 {
+public class Ej00_Combinatorio {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         int m,n,comb;

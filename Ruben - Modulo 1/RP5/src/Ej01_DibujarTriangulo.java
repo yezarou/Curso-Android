@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ej01 {
+public class Ej01_DibujarTriangulo {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         int n;
@@ -17,7 +17,7 @@ public class Ej01 {
     private static void dibujarLinea(int linea,
                                      int n) {
         dibujarBlancos(n-linea);
-        dibujarAsteriscos(linea);
+        dibujarTriangulo(linea);
         System.out.println();
     }
 
@@ -27,7 +27,7 @@ public class Ej01 {
         }
     }
 
-    private static void dibujarAsteriscos(int aster) {
+    private static void dibujarTriangulo(int aster) {
         for (int cont = 1; cont <= aster; cont++) {
             System.out.print(cont + " ");
         }

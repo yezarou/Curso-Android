@@ -35,6 +35,15 @@ Proyectos del [Curso Android](http://www.titulacionespropias.uma.es/informacion_
 ### Quinta relación de problemas
 0 - Calcular el número combinatorio.  
 1 - Dibujar un triangulo.
+2 - Dibujar un rombo.  
+3 - Conjetura del palíndromo.  
+4 - Dígito en una posición de un valor.  
+5 - Suma de los extremos de un valor.  
+6 - N primeros números primos.  
+7 - Divisores primos de un número.  
+8 - Conjetura de Goldbach.  
+9 - Dibujar un triangulo (diferente).  
+10 - Dibujar una figura.  
 ### Examen 1
 1 - Algoritmo multiplicador-multiplicando.  
 2 - Impares consecutivos.  
