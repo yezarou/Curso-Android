@@ -44,6 +44,12 @@ Proyectos del [Curso Android](http://www.titulacionespropias.uma.es/informacion_
 8 - Conjetura de Goldbach.  
 9 - Dibujar un triangulo (diferente).  
 10 - Dibujar una figura.  
+### Sexta relación de problemas
+1 - Encriptar un string.  
+2 - Transformar de string a int.  
+3 - Palabras de un texto que empiezan por unas iniciales.  
+4 - Palabras que son anagramas de otras.  
+5 - Calculadora de strings.
 ### Examen 1
 1 - Algoritmo multiplicador-multiplicando.  
 2 - Impares consecutivos.  
