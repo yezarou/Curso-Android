@@ -15,38 +15,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Ej01_Encriptacion.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RP6/src/Ej01_Encriptacion.java">
+      <file leaf-file-name="Ej01_ArrayFuncionMayor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RP7/src/Ej01_ArrayFuncionMayor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+            <state relative-caret-position="382">
+              <caret line="26" selection-start-line="26" selection-end-line="36" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Ej02_ConversorStringInt.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RP6/src/Ej02_ConversorStringInt.java">
+      <file leaf-file-name="Ej02_ArrayFuncionEsta.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RP7/src/Ej02_ArrayFuncionEsta.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+            <state relative-caret-position="350">
+              <caret line="33" selection-start-line="33" selection-end-line="43" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Ej03_InicialesTexto.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RP6/src/Ej03_InicialesTexto.java">
+      <file leaf-file-name="Ej03_ArrayFuncionMayorMinimo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RP7/src/Ej03_ArrayFuncionMayorMinimo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Ej04_DetectarAnagramas.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RP6/src/Ej04_DetectarAnagramas.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+            <state relative-caret-position="462">
+              <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -54,11 +45,68 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Ej05_CalculadoraString.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/RP6/src/Ej05_CalculadoraString.java">
+      <file leaf-file-name="Ej04_MediaClase.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RP7/src/Ej04_MediaClase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+            <state relative-caret-position="255">
+              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ej05_InvertirArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RP7/src/Ej05_InvertirArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" selection-start-line="21" selection-end-line="29" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ej08_Erastotenes.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RP7/src/Ej08_Erastotenes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" selection-start-line="27" selection-end-line="28" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ej09_CambiarBaseNumero.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RP7/src/Ej09_CambiarBaseNumero.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ej10_ComprobarColecciones.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RP7/src/Ej10_ComprobarColecciones.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ej11_DiasConcordantes.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RP7/src/Ej11_DiasConcordantes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="23" column="73" lean-forward="true" selection-start-line="23" selection-start-column="73" selection-end-line="23" selection-end-column="73" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -75,16 +123,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/RP1/src/Ej09_IntercambiarVariables.java" />
-        <option value="$PROJECT_DIR$/RP1/src/Ej03_Suma.java" />
-        <option value="$PROJECT_DIR$/RP1/src/Ej05_VelocidadCoche.java" />
-        <option value="$PROJECT_DIR$/RP1/src/Ej06_NumeroReal.java" />
-        <option value="$PROJECT_DIR$/RP1/src/Ej08_Fecha.java" />
-        <option value="$PROJECT_DIR$/RP3/src/Ej01_RefactorizarIf.java" />
-        <option value="$PROJECT_DIR$/RP3/src/Ej02_RefactorizarExpresion.java" />
-        <option value="$PROJECT_DIR$/RP3/src/Ej03_RefactorizarConcatenacionIf.java" />
-        <option value="$PROJECT_DIR$/RP3/src/Ej05_MultiploNumero.java" />
-        <option value="$PROJECT_DIR$/RP3/src/Ej06_CompraArticulos.java" />
         <option value="$PROJECT_DIR$/RP3/src/Ej09_FormatearFecha.java" />
         <option value="$PROJECT_DIR$/RP3/src/Ej07_ComprobarNegativo.java" />
         <option value="$PROJECT_DIR$/RP3/src/Ej11_FacturaElectrica.java" />
@@ -124,11 +162,23 @@
         <option value="$PROJECT_DIR$/RP6/src/Ej03_InicialesTexto.java" />
         <option value="$PROJECT_DIR$/RP6/src/Ej04_DetectarAnagramas.java" />
         <option value="$PROJECT_DIR$/RP6/src/Ej05_CalculadoraString.java" />
+        <option value="$PROJECT_DIR$/RP7/src/Ej01_ArrayFuncionMayorLeer.java" />
+        <option value="$PROJECT_DIR$/RP7/src/Ej01_ArrayFuncionMayor.java" />
+        <option value="$PROJECT_DIR$/RP7/src/Ej02_ArrayFuncionEsta.java" />
+        <option value="$PROJECT_DIR$/RP7/src/Ej03_ArrayFuncionMayorMinimo.java" />
+        <option value="$PROJECT_DIR$/RP7/src/Ej04_MediaClase.java" />
+        <option value="$PROJECT_DIR$/RP7/src/Ej05_InvertirArray.java" />
+        <option value="$PROJECT_DIR$/RP7/src/Ej06_MostrarNumeros.java" />
+        <option value="$PROJECT_DIR$/RP7/src/Ej07_Histograma.java" />
+        <option value="$PROJECT_DIR$/RP7/src/Ej08_Erastotenes.java" />
+        <option value="$PROJECT_DIR$/RP7/src/Ej09_CambiarBaseNumero.java" />
+        <option value="$PROJECT_DIR$/RP7/src/Ej10_ComprobarColecciones.java" />
+        <option value="$PROJECT_DIR$/RP7/src/Ej11_DiasConcordantes.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1270" />
+    <option name="width" value="1612" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectView">
@@ -136,6 +186,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -147,20 +199,18 @@
             <path>
               <item name="Ruben - Modulo 1" type="b2602c69:ProjectViewProjectNode" />
               <item name="Ruben - Modulo 1" type="462c0819:PsiDirectoryNode" />
-              <item name="RP6" type="462c0819:PsiDirectoryNode" />
+              <item name="RP7" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Ruben - Modulo 1" type="b2602c69:ProjectViewProjectNode" />
               <item name="Ruben - Modulo 1" type="462c0819:PsiDirectoryNode" />
-              <item name="RP6" type="462c0819:PsiDirectoryNode" />
+              <item name="RP7" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -181,30 +231,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ej05_CalculadoraString">
-    <configuration name="Ej01_Encriptacion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ej01_Encriptacion" />
-      <module name="RP6" />
+  <component name="RunManager" selected="Application.Ej11_DiasConcordantes">
+    <configuration name="Ej07_Histograma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ej07_Histograma" />
+      <module name="RP7" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Ej02_ConversorStringInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ej02_ConversorStringInt" />
-      <module name="RP6" />
+    <configuration name="Ej08_Erastotenes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ej08_Erastotenes" />
+      <module name="RP7" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Ej03_InicialesTexto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ej03_InicialesTexto" />
-      <module name="RP6" />
+    <configuration name="Ej09_CambiarBaseNumero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ej09_CambiarBaseNumero" />
+      <module name="RP7" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Ej04_DetectarAnagramas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ej04_DetectarAnagramas" />
-      <module name="RP6" />
+    <configuration name="Ej10_ComprobarColecciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ej10_ComprobarColecciones" />
+      <module name="RP7" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Ej05_CalculadoraString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ej05_CalculadoraString" />
-      <module name="RP6" />
+    <configuration name="Ej11_DiasConcordantes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ej11_DiasConcordantes" />
+      <module name="RP7" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -249,19 +299,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Ej01_Encriptacion" />
-      <item itemvalue="Application.Ej02_ConversorStringInt" />
-      <item itemvalue="Application.Ej03_InicialesTexto" />
-      <item itemvalue="Application.Ej04_DetectarAnagramas" />
-      <item itemvalue="Application.Ej05_CalculadoraString" />
+      <item itemvalue="Application.Ej07_Histograma" />
+      <item itemvalue="Application.Ej08_Erastotenes" />
+      <item itemvalue="Application.Ej09_CambiarBaseNumero" />
+      <item itemvalue="Application.Ej10_ComprobarColecciones" />
+      <item itemvalue="Application.Ej11_DiasConcordantes" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ej05_CalculadoraString" />
-        <item itemvalue="Application.Ej04_DetectarAnagramas" />
-        <item itemvalue="Application.Ej03_InicialesTexto" />
-        <item itemvalue="Application.Ej01_Encriptacion" />
-        <item itemvalue="Application.Ej02_ConversorStringInt" />
+        <item itemvalue="Application.Ej11_DiasConcordantes" />
+        <item itemvalue="Application.Ej10_ComprobarColecciones" />
+        <item itemvalue="Application.Ej09_CambiarBaseNumero" />
+        <item itemvalue="Application.Ej08_Erastotenes" />
+        <item itemvalue="Application.Ej07_Histograma" />
       </list>
     </recent_temporary>
   </component>
@@ -279,8 +329,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1270" height="1040" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1612" height="1040" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -291,11 +340,11 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31866953" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31866953" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2751196" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21553884" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -318,100 +367,53 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/RP4/src/Ej08_PrecioMedioCoche.java</url>
+          <url />
           <line>3</line>
           <properties class="Ej08_PrecioMedioCoche" method="main">
             <option name="EMULATED" value="true" />
           </properties>
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/RP4/src/Ej05_EncontrarNumero.java</url>
+          <url />
           <line>28</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="28" />
+      <option name="time" value="56" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/RP1/src/Ej05_VelocidadCoche.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RP1/src/Ej03_Suma.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RP1/src/Ej09_IntercambiarVariables.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="70" selection-start-line="29" selection-start-column="70" selection-end-line="29" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RP1/src/Ej05_VelocidadCoche.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RP1/src/Ej06_NumeroReal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RP1/src/Ej08_Fecha.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RP3/src/Ej03_RefactorizarConcatenacionIf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RP3/src/Ej02_RefactorizarExpresion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RP3/src/Ej01_RefactorizarIf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RP3/src/Ej05_MultiploNumero.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RP3/src/Ej06_CompraArticulos.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/RP3/src/Ej07_ComprobarNegativo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -664,7 +666,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/RP6/src/Ej04_DetectarAnagramas.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
+        <state relative-caret-position="340">
           <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -676,6 +678,104 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP7/src/Ej01_ArrayFuncionMayor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="26" selection-start-line="26" selection-end-line="36" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP7/src/Ej06_MostrarNumeros.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP7/src/Ej07_Histograma.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP7/src/Ej04_MediaClase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP7/src/Ej08_Erastotenes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" selection-start-line="27" selection-end-line="28" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP7/src/Ej09_CambiarBaseNumero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP7/src/Ej02_ArrayFuncionEsta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="33" selection-start-line="33" selection-end-line="43" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP7/src/Ej10_ComprobarColecciones.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP7/src/Ej05_InvertirArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP7/src/Ej03_ArrayFuncionMayorMinimo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP7/src/Ej11_DiasConcordantes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="23" column="73" lean-forward="true" selection-start-line="23" selection-start-column="73" selection-end-line="23" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
