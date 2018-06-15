@@ -1,5 +1,4 @@
 import java.util.Arrays;
-import java.util.EmptyStackException;
 import java.util.Scanner;
 
 public class Ej03_ArrayFuncionMayorMinimo {
