@@ -50,10 +50,37 @@ Proyectos del [Curso Android](http://www.titulacionespropias.uma.es/informacion_
 3 - Palabras de un texto que empiezan por unas iniciales.  
 4 - Palabras que son anagramas de otras.  
 5 - Calculadora de strings.
+### Séptima relación de problemas
+1 - Mayor valor de un array.  
+2 - Array contiene un valor.  
+3 - El mayor mínimo de un array.  
+4 - Media de la altura de alumnos de una clase.  
+5 - Invertir un array.  
+6 - Número de veces que aparece un valor.  
+7 - Histograma de un array.  
+8 - Erastotenes.  
+9 - Cambiar de base un número.  
+10 - Comprobar que dos arrays sean iguales.  
+11 - Días que concuerdan entre varios arrays.  
+12 - Índices ordenados de un array.  
+13 - Calcular el centro de un vector.
+### Octava relación de problemas
+1 - Matriz contiene un valor.  
+2 - Sumar la diagonal de una matriz.  
+3 - El mayor valor de una matriz.  
+4 - Comprobar si una matriz es simétrica.  
+5 - Comprobar si es un cuadrado mágico.  
+6 - Generar un cuadrado mágico.  
+7 - Crear un tablero N-Goro. 
 ### Examen 1
 1 - Algoritmo multiplicador-multiplicando.  
 2 - Impares consecutivos.  
 3 - Calcular la raiz n-ésima.
+### Examen 2
+1A - Comprobar si dos valores son familia.  
+1B - Comprobar valores que son familia en un intervalo.  
+2 - Números que se repiten X veces en un array.  
+3 - String que cumple una secuencia.  
 ## Módulo 2 - Introducción a la Programación Orientada a Objetos
 ## Módulo 3 - Introducción a Android
 ## Módulo 4 - Fundamentos de las aplicaciones Android
