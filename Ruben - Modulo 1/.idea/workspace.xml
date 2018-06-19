@@ -15,73 +15,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Ej1A.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Examen2/src/Ej1A.java">
+      <file leaf-file-name="Ej11_PalabrasPatron.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RP1 - Kotlin/src/Ej11_PalabrasPatron.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#989#0" expanded="true" />
-                <element signature="e#776#777#0" expanded="true" />
-                <element signature="e#845#846#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="213">
+              <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Ej1B.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Examen2/src/Ej1B.java">
+      <file leaf-file-name="Ej12_FuncionMayorLongitud.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RP1 - Kotlin/src/Ej12_FuncionMayorLongitud.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-              <folding>
-                <element signature="e#0#1248#0" expanded="true" />
-                <element signature="e#936#937#0" expanded="true" />
-                <element signature="e#1015#1016#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="204">
+              <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Ej04_MediaClase.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RP7/src/Ej04_MediaClase.java">
+      <file leaf-file-name="Ej13_Suavizado.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RP1 - Kotlin/src/Ej13_Suavizado.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="4" column="44" lean-forward="true" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Ej06_MostrarNumeros.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RP7/src/Ej06_MostrarNumeros.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="62" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Ej10_ComprobarColecciones.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RP7/src/Ej10_ComprobarColecciones.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Ej2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Examen2/src/Ej2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-              <folding>
-                <element signature="e#0#2226#0" expanded="true" />
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="376">
+              <caret line="35" column="39" lean-forward="true" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -89,8 +45,8 @@
       <file leaf-file-name="Ej3.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Examen2/src/Ej3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+            <state relative-caret-position="374">
+              <caret line="22" column="32" selection-start-line="22" selection-end-line="23" />
               <folding>
                 <element signature="e#0#1115#0" expanded="true" />
               </folding>
@@ -104,16 +60,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/RP4/src/Ej15_BuscarNumero.java" />
-        <option value="$PROJECT_DIR$/RP4/src/Ej13_SumaPrimos.java" />
-        <option value="$PROJECT_DIR$/RP4/src/Ej12_InformacionSecuencia.java" />
-        <option value="$PROJECT_DIR$/RP4/src/Ej17_JuegoRetirarValor.java" />
         <option value="$PROJECT_DIR$/RP4/src/Ej16_AcertarNumero.java" />
         <option value="$PROJECT_DIR$/RP4/src/Ej14_SegundoMayor.java" />
         <option value="$PROJECT_DIR$/RP5/src/Ej00.java" />
@@ -161,6 +114,10 @@
         <option value="$PROJECT_DIR$/Examen2/src/Ej2.java" />
         <option value="$PROJECT_DIR$/Examen2/src/Ej3.java" />
         <option value="$PROJECT_DIR$/Examen2/src/Ej1B.java" />
+        <option value="$PROJECT_DIR$/RP1 - Kotlin/src/Ej11_PalabrasPatron.kt" />
+        <option value="$PROJECT_DIR$/RP1 - Kotlin/src/Ej12_FuncionMayorLongitud.kt" />
+        <option value="$PROJECT_DIR$/RP1 - Kotlin/src/Ej13_MediaVecinos.java" />
+        <option value="$PROJECT_DIR$/RP1 - Kotlin/src/Ej13_Suavizado.kt" />
       </list>
     </option>
   </component>
@@ -173,8 +130,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -185,46 +141,20 @@
             <path>
               <item name="Ruben - Modulo 1" type="b2602c69:ProjectViewProjectNode" />
               <item name="Ruben - Modulo 1" type="462c0819:PsiDirectoryNode" />
-              <item name="Examen2" type="462c0819:PsiDirectoryNode" />
+              <item name="RP1 - Kotlin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Ruben - Modulo 1" type="b2602c69:ProjectViewProjectNode" />
               <item name="Ruben - Modulo 1" type="462c0819:PsiDirectoryNode" />
-              <item name="Examen2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ruben - Modulo 1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ruben - Modulo 1" type="462c0819:PsiDirectoryNode" />
-              <item name="RP6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ruben - Modulo 1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ruben - Modulo 1" type="462c0819:PsiDirectoryNode" />
-              <item name="RP7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ruben - Modulo 1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ruben - Modulo 1" type="462c0819:PsiDirectoryNode" />
-              <item name="RP7" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ruben - Modulo 1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ruben - Modulo 1" type="462c0819:PsiDirectoryNode" />
-              <item name="RP8" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ruben - Modulo 1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ruben - Modulo 1" type="462c0819:PsiDirectoryNode" />
-              <item name="RP8" type="462c0819:PsiDirectoryNode" />
+              <item name="RP1 - Kotlin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -246,17 +176,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ej1B">
-    <configuration name="Ej07_TableroNGoro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ej07_TableroNGoro" />
-      <module name="RP8" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="Ej1A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ej1A" />
-      <module name="Examen2" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Ej13_SuavizadoKt">
     <configuration name="Ej1B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ej1B" />
       <module name="Examen2" />
@@ -264,11 +184,6 @@
     </configuration>
     <configuration name="Ej2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ej2" />
-      <module name="Examen2" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="Ej3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ej3" />
       <module name="Examen2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -290,6 +205,36 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+    </configuration>
+    <configuration name="Ej11_PalabrasPatronKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="RP1 - Kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Ej11_PalabrasPatronKt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration name="Ej12_FuncionMayorLongitudKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="RP1 - Kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Ej12_FuncionMayorLongitudKt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration name="Ej13_SuavizadoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="RP1 - Kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Ej13_SuavizadoKt" />
+      <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -314,19 +259,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Ej07_TableroNGoro" />
-      <item itemvalue="Application.Ej1A" />
       <item itemvalue="Application.Ej1B" />
       <item itemvalue="Application.Ej2" />
-      <item itemvalue="Application.Ej3" />
+      <item itemvalue="Kotlin.Ej11_PalabrasPatronKt" />
+      <item itemvalue="Kotlin.Ej12_FuncionMayorLongitudKt" />
+      <item itemvalue="Kotlin.Ej13_SuavizadoKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Ej13_SuavizadoKt" />
+        <item itemvalue="Kotlin.Ej12_FuncionMayorLongitudKt" />
+        <item itemvalue="Kotlin.Ej11_PalabrasPatronKt" />
         <item itemvalue="Application.Ej1B" />
         <item itemvalue="Application.Ej2" />
-        <item itemvalue="Application.Ej3" />
-        <item itemvalue="Application.Ej1A" />
-        <item itemvalue="Application.Ej07_TableroNGoro" />
       </list>
     </recent_temporary>
   </component>
@@ -345,7 +290,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1311" height="1040" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -396,38 +340,10 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="101" />
+      <option name="time" value="122" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/RP4/src/Ej12_InformacionSecuencia.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="92" selection-start-line="23" selection-start-column="92" selection-end-line="23" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RP4/src/Ej13_SumaPrimos.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="74" selection-start-line="11" selection-start-column="74" selection-end-line="11" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RP4/src/Ej14_SegundoMayor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RP4/src/Ej17_JuegoRetirarValor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1105">
-          <caret line="65" column="5" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dfgdg/src/Ej00.java" />
     <entry file="file://$PROJECT_DIR$/dfgdg/src/Ej01.java" />
     <entry file="file://$PROJECT_DIR$/Examen1/src/Ej03.java">
@@ -655,9 +571,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="32" column="28" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -679,9 +592,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="21" column="24" selection-start-line="21" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -692,43 +602,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Examen2/src/Ej2.java">
+    <entry file="file://$PROJECT_DIR$/Examen2/src/Ej1A.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
-            <element signature="e#0#2226#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Examen2/src/Ej3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#1115#0" expanded="true" />
+            <element signature="e#0#989#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Examen2/src/Ej1B.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="119">
           <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#1248#0" expanded="true" />
-            <element signature="e#936#937#0" expanded="true" />
-            <element signature="e#1015#1016#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/RP7/src/Ej04_MediaClase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="4" column="44" lean-forward="true" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -738,7 +632,7 @@
     <entry file="file://$PROJECT_DIR$/RP7/src/Ej06_MostrarNumeros.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="62" />
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="62" />
         </state>
       </provider>
     </entry>
@@ -749,15 +643,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Examen2/src/Ej1A.java">
+    <entry file="file://$PROJECT_DIR$/Examen2/src/Ej2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
-            <element signature="e#0#989#0" expanded="true" />
-            <element signature="e#776#777#0" expanded="true" />
-            <element signature="e#845#846#0" expanded="true" />
+            <element signature="e#0#2226#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examen2/src/Ej3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="32" selection-start-line="22" selection-end-line="23" />
+          <folding>
+            <element signature="e#0#1115#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP1 - Kotlin/src/Ej11_PalabrasPatron.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP1 - Kotlin/src/Ej13_MediaVecinos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP1 - Kotlin/src/Ej12_FuncionMayorLongitud.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RP1 - Kotlin/src/Ej13_Suavizado.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="35" column="39" lean-forward="true" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -813,7 +744,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>RP4</last-edited>
+          <last-edited>RP1 - Kotlin</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -838,6 +769,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>KotlinJavaRuntime</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
