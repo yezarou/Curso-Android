@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ruben - Modulo 2.iml" filepath="$PROJECT_DIR$/Ruben - Modulo 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prCPI/prCPI.iml" filepath="$PROJECT_DIR$/prCPI/prCPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prJarras/prJarras1.iml" filepath="$PROJECT_DIR$/prJarras/prJarras1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prLibreria/prLibreria.iml" filepath="$PROJECT_DIR$/prLibreria/prLibreria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prueba/prueba.iml" filepath="$PROJECT_DIR$/prueba/prueba.iml" />
+    </modules>
+  </component>
+</project>
