@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class Libreria {
     private int numLibros;
     private Libro[] libros;
-    private static final int TAM_DEFECTO = 16;
+    protected static final int TAM_DEFECTO = 16;
 
     public Libreria(){
         this(TAM_DEFECTO);
@@ -26,7 +26,7 @@ public class Libreria {
             libros[pos] = libro;
     }
 
-    private void addLibro(Libro libro){
+    protected void addLibro(Libro libro){
         aseguraQueCabe();
         libros[numLibros++] = libro;
     }
