@@ -1,6 +1,6 @@
 import Jarras.Jarra;
 
-public class Main {
+public class PruebaJarras {
     public static void main(String[] args) {
         Jarra j1 = new Jarra(7);
         Jarra j2 = new Jarra(5);

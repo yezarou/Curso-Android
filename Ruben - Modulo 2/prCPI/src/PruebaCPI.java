@@ -1,6 +1,6 @@
 import prCPI.CPI;
 
-public class Main {
+public class PruebaCPI {
     public static void main(String[] args) {
         CPI cpi = new CPI();
         cpi.entra(3);
