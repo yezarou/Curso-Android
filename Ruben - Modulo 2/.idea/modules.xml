@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Ruben - Modulo 2.iml" filepath="$PROJECT_DIR$/Ruben - Modulo 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prAltura/prAltura.iml" filepath="$PROJECT_DIR$/prAltura/prAltura.iml" />
       <module fileurl="file://$PROJECT_DIR$/prCPI/prCPI.iml" filepath="$PROJECT_DIR$/prCPI/prCPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/prCoches/prCoches.iml" filepath="$PROJECT_DIR$/prCoches/prCoches.iml" />
       <module fileurl="file://$PROJECT_DIR$/prJarras/prJarras.iml" filepath="$PROJECT_DIR$/prJarras/prJarras.iml" />
@@ -11,6 +12,9 @@
       <module fileurl="file://$PROJECT_DIR$/prLibreriaV3/prLibreriaV3.iml" filepath="$PROJECT_DIR$/prLibreriaV3/prLibreriaV3.iml" />
       <module fileurl="file://$PROJECT_DIR$/prMasterMind/prMasterMind.iml" filepath="$PROJECT_DIR$/prMasterMind/prMasterMind.iml" />
       <module fileurl="file://$PROJECT_DIR$/prStereograma/prStereograma.iml" filepath="$PROJECT_DIR$/prStereograma/prStereograma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prTema5/prTema5.iml" filepath="$PROJECT_DIR$/prTema5/prTema5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prTema6/prTema6.iml" filepath="$PROJECT_DIR$/prTema6/prTema6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prTemas/prTema6.iml" filepath="$PROJECT_DIR$/prTemas/prTema6.iml" />
       <module fileurl="file://$PROJECT_DIR$/prUrna/prUrna.iml" filepath="$PROJECT_DIR$/prUrna/prUrna.iml" />
       <module fileurl="file://$PROJECT_DIR$/prueba/prueba.iml" filepath="$PROJECT_DIR$/prueba/prueba.iml" />
     </modules>
