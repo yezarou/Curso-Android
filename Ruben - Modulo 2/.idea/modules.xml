@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/prBus/prBus.iml" filepath="$PROJECT_DIR$/prBus/prBus.iml" />
       <module fileurl="file://$PROJECT_DIR$/prCPI/prCPI.iml" filepath="$PROJECT_DIR$/prCPI/prCPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/prCoches/prCoches.iml" filepath="$PROJECT_DIR$/prCoches/prCoches.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prJardin/prJardin.iml" filepath="$PROJECT_DIR$/prJardin/prJardin.iml" />
       <module fileurl="file://$PROJECT_DIR$/prJarras/prJarras.iml" filepath="$PROJECT_DIR$/prJarras/prJarras.iml" />
       <module fileurl="file://$PROJECT_DIR$/prLibreria/prLibreria.iml" filepath="$PROJECT_DIR$/prLibreria/prLibreria.iml" />
       <module fileurl="file://$PROJECT_DIR$/prLibreriaV2/prLibreriaV2.iml" filepath="$PROJECT_DIR$/prLibreriaV2/prLibreriaV2.iml" />
@@ -16,7 +17,9 @@
       <module fileurl="file://$PROJECT_DIR$/prTema5/prTema5.iml" filepath="$PROJECT_DIR$/prTema5/prTema5.iml" />
       <module fileurl="file://$PROJECT_DIR$/prTema6/prTema6.iml" filepath="$PROJECT_DIR$/prTema6/prTema6.iml" />
       <module fileurl="file://$PROJECT_DIR$/prTemas/prTema6.iml" filepath="$PROJECT_DIR$/prTemas/prTema6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prTema7/prTema7.iml" filepath="$PROJECT_DIR$/prTema7/prTema7.iml" />
       <module fileurl="file://$PROJECT_DIR$/prUrna/prUrna.iml" filepath="$PROJECT_DIR$/prUrna/prUrna.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prZonaMusculacion/prZonaMusculacion.iml" filepath="$PROJECT_DIR$/prZonaMusculacion/prZonaMusculacion.iml" />
       <module fileurl="file://$PROJECT_DIR$/prueba/prueba.iml" filepath="$PROJECT_DIR$/prueba/prueba.iml" />
     </modules>
   </component>
