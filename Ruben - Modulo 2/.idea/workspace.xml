@@ -15,20 +15,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Maquina.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/musculacion/Maquina.java">
+      <file leaf-file-name="MainAmigoInvisible.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/prAmigoInvisible/src/MainAmigoInvisible.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+            <state relative-caret-position="60">
+              <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Zona.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/musculacion/Zona.java">
+      <file leaf-file-name="Pareja.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prAmigoInvisible/src/amigos/Pareja.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+            <state>
+              <caret column="22" selection-start-column="22" selection-end-column="22" />
+              <folding>
+                <element signature="e#165#166#0" expanded="true" />
+                <element signature="e#199#200#0" expanded="true" />
+                <element signature="e#391#392#0" expanded="true" />
+                <element signature="e#415#416#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClubParejas.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prAmigoInvisible/src/amigos/ClubParejas.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="22" selection-start-column="22" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -36,67 +51,54 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Musculacion.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/musculacion/Musculacion.java">
+      <file leaf-file-name="Club.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prAmigoInvisible/src/amigos/Club.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="65" column="69" selection-start-line="65" selection-start-column="69" selection-end-line="65" selection-end-column="69" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LanzaderaMiCodigo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prTema7/src/LanzaderaMiCodigo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="48" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MiCodigo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prTema7/src/MiCodigo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/prJardin/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Puerta.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prJardin/src/prJardin/Puerta.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Contador.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prJardin/src/prJardin/Contador.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainMusculacion.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MainMusculacion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+            <state>
+              <caret column="14" selection-end-line="1" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#308#309#0" expanded="true" />
+                <element signature="e#320#321#0" expanded="true" />
+                <element signature="e#1156#1157#0" expanded="true" />
+                <element signature="e#1199#1200#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AmigoException.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prAmigoInvisible/src/amigos/AmigoException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="22" selection-start-column="22" selection-end-column="22" />
+              <folding>
+                <element signature="e#103#104#0" expanded="true" />
+                <element signature="e#126#127#0" expanded="true" />
+                <element signature="e#109#110#0" expanded="true" />
+                <element signature="e#136#137#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Persona.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prAmigoInvisible/src/amigos/Persona.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="22" selection-start-column="22" selection-end-column="22" />
+              <folding>
+                <element signature="e#140#141#0" expanded="true" />
+                <element signature="e#157#158#0" expanded="true" />
+                <element signature="e#188#189#0" expanded="true" />
+                <element signature="e#206#207#0" expanded="true" />
+                <element signature="e#239#240#0" expanded="true" />
+                <element signature="e#257#258#0" expanded="true" />
+                <element signature="e#295#296#0" expanded="true" />
+                <element signature="e#311#312#0" expanded="true" />
+                <element signature="e#519#520#0" expanded="true" />
+                <element signature="e#534#535#0" expanded="true" />
+                <element signature="e#624#625#0" expanded="true" />
+                <element signature="e#639#640#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -115,12 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/prCoches/src/prCoche/CocheImportado.java" />
-        <option value="$PROJECT_DIR$/prCoches/src/prCoche/Coche.java" />
-        <option value="$PROJECT_DIR$/prUrna/src/prUrna/Urna.java" />
-        <option value="$PROJECT_DIR$/prUrna/src/Main.java" />
-        <option value="$PROJECT_DIR$/prUrna/src/PruebaUrna.java" />
-        <option value="$PROJECT_DIR$/prStereograma/src/stereograma/FiltroRojo.java" />
         <option value="$PROJECT_DIR$/prStereograma/src/stereograma/FiltroAzulPorRojo.java" />
         <option value="$PROJECT_DIR$/prStereograma/src/stereograma/FiltroMedia.java" />
         <option value="$PROJECT_DIR$/prStereograma/src/stereograma/FiltroSuavizado.java" />
@@ -166,11 +162,17 @@
         <option value="$PROJECT_DIR$/prTema7/src/MiCodigo.java" />
         <option value="$PROJECT_DIR$/prJardin/src/prJardin/Contador.java" />
         <option value="$PROJECT_DIR$/prJardin/src/Main.java" />
+        <option value="$PROJECT_DIR$/prAmigoInvisible/src/amigos/Club.java" />
+        <option value="$PROJECT_DIR$/prAmigoInvisible/src/MainAmigoInvisible.java" />
+        <option value="$PROJECT_DIR$/prAmigoInvisible/src/amigos/Pareja.java" />
+        <option value="$PROJECT_DIR$/prAmigoInvisible/src/amigos/ClubParejas.java" />
+        <option value="$PROJECT_DIR$/prAmigoInvisible/src/amigos/AmigoException.java" />
+        <option value="$PROJECT_DIR$/prAmigoInvisible/src/amigos/Persona.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="width" value="1240" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1083" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectView">
@@ -178,6 +180,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -188,26 +191,25 @@
             <path>
               <item name="Ruben - Modulo 2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Ruben - Modulo 2" type="462c0819:PsiDirectoryNode" />
-              <item name="prJardin" type="462c0819:PsiDirectoryNode" />
+              <item name="prAmigoInvisible" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Ruben - Modulo 2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Ruben - Modulo 2" type="462c0819:PsiDirectoryNode" />
-              <item name="prJardin" type="462c0819:PsiDirectoryNode" />
+              <item name="prAmigoInvisible" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Ruben - Modulo 2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Ruben - Modulo 2" type="462c0819:PsiDirectoryNode" />
-              <item name="prJardin" type="462c0819:PsiDirectoryNode" />
+              <item name="prAmigoInvisible" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="prJardin" type="462c0819:PsiDirectoryNode" />
+              <item name="amigos" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
@@ -224,21 +226,22 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Android9Ed\IdeaProjects\Proyectos del Curso de Android\Curso-Android\Ruben - Modulo 2\prLibreriaV3\src" />
-      <recent name="C:\Users\Android9Ed\IdeaProjects\Proyectos del Curso de Android\Curso-Android\Ruben - Modulo 2\prLibreriaV2\src" />
-      <recent name="C:\Users\Android9Ed\IdeaProjects\Proyectos del Curso de Android\Curso-Android\Ruben - Modulo 2\prLibreriaV2" />
-      <recent name="C:\Users\Android9Ed\IdeaProjects\Proyectos del Curso de Android\Curso-Android\Ruben - Modulo 2\prLibreria\src" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Android9Ed\IdeaProjects\Proyectos del Curso de Android\Curso-Android\Ruben - Modulo 2\prAmigoInvisible" />
+      <recent name="C:\Users\Android9Ed\IdeaProjects\Proyectos del Curso de Android\Curso-Android\Ruben - Modulo 2\prAmigoInvisible\src" />
+      <recent name="C:\Users\Android9Ed\IdeaProjects\Proyectos del Curso de Android\Curso-Android\Ruben - Modulo 2\prJardin\src" />
+      <recent name="C:\Users\Android9Ed\IdeaProjects\Proyectos del Curso de Android\Curso-Android\Ruben - Modulo 2\prTema7\src" />
+      <recent name="C:\Users\Android9Ed\IdeaProjects\Proyectos del Curso de Android\Curso-Android\Ruben - Modulo 2\prTema5\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="stereograma" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Android9Ed\IdeaProjects\Proyectos del Curso de Android\Curso-Android\Ruben - Modulo 2\prJardin\src" />
-      <recent name="C:\Users\Android9Ed\IdeaProjects\Proyectos del Curso de Android\Curso-Android\Ruben - Modulo 2\prTema7\src" />
-      <recent name="C:\Users\Android9Ed\IdeaProjects\Proyectos del Curso de Android\Curso-Android\Ruben - Modulo 2\prTema5\src" />
-      <recent name="C:\Users\Android9Ed\IdeaProjects\Proyectos del Curso de Android\Curso-Android\Ruben - Modulo 2\prTema6\src" />
-      <recent name="C:\Users\Android9Ed\IdeaProjects\Proyectos del Curso de Android\Curso-Android\Ruben - Modulo 2\prTemas\src" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Android9Ed\IdeaProjects\Proyectos del Curso de Android\Curso-Android\Ruben - Modulo 2\prAmigoInvisible\src" />
+      <recent name="C:\Users\Android9Ed\IdeaProjects\Proyectos del Curso de Android\Curso-Android\Ruben - Modulo 2\prLibreriaV3\src" />
+      <recent name="C:\Users\Android9Ed\IdeaProjects\Proyectos del Curso de Android\Curso-Android\Ruben - Modulo 2\prLibreriaV2\src" />
+      <recent name="C:\Users\Android9Ed\IdeaProjects\Proyectos del Curso de Android\Curso-Android\Ruben - Modulo 2\prLibreriaV2" />
+      <recent name="C:\Users\Android9Ed\IdeaProjects\Proyectos del Curso de Android\Curso-Android\Ruben - Modulo 2\prLibreria\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -253,7 +256,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.MainAmigoInvisible">
     <configuration name="FrecuenciasM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FrecuenciasM" />
       <module name="prTema5" />
@@ -270,14 +273,14 @@
       <module name="prJardin" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
+    <configuration name="MainAmigoInvisible" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainAmigoInvisible" />
+      <module name="prAmigoInvisible" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
     <configuration name="MainMusculacion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainMusculacion" />
       <module name="Ruben - Modulo 2" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="prueba" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="Posiciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -348,11 +351,11 @@
       <item itemvalue="Application.Posiciones" />
       <item itemvalue="Application.UsoMap" />
       <item itemvalue="Application.LanzaderaMiCodigo" />
-      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.MainAmigoInvisible" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.MainAmigoInvisible" />
         <item itemvalue="Application.LanzaderaMiCodigo" />
         <item itemvalue="Application.UsoMap" />
         <item itemvalue="Application.Posiciones" />
@@ -374,7 +377,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1240" height="1040" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -385,11 +388,11 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32832617" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3227848" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2638889" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16822916" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -406,32 +409,32 @@
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32832617" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26048386" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32832617" />
+      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32939914" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39806867" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3296875" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32911393" />
-      <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3296875" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26048386" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -464,74 +467,16 @@
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/musculacion/Musculacion.java</url>
+          <url>file://$PROJECT_DIR$/prZonaMusculacion/src/musculacion/Musculacion.java</url>
           <line>63</line>
           <properties />
           <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="20" />
+      <option name="time" value="26" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/prStereograma/src/stereograma/FiltroImagen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prStereograma/src/stereograma/FiltroConvolve.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prStereograma/src/MainFiltroImagen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prMasterMind/src/prMasterMind/MasterMindException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/javax/print/attribute/standard/MediaSize.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="605" column="30" selection-start-line="605" selection-start-column="30" selection-end-line="605" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prStereograma/src/MainEjemploStereograma.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="32" column="47" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prMasterMind/src/prMasterMind/Movimiento.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prMasterMind/src/TestMasterMind.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prTemas/src/SPersona.java" />
-    <entry file="file://$PROJECT_DIR$/prTemas/src/TestFile.java" />
     <entry file="file://$PROJECT_DIR$/prTemas/src/MainSPersona.java" />
     <entry file="file://$PROJECT_DIR$/prTemas/src/LeeBufferedFile.java" />
     <entry file="file://$PROJECT_DIR$/prMasterMind/src/prMasterMind/MasterMindMemoria.java">
@@ -573,13 +518,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prAltura/src/alturas/Pais.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -674,20 +612,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prBus/src/buses/Servicio.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="59" column="23" selection-start-line="59" selection-start-column="23" selection-end-line="59" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prBus/src/buses/Bus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/prBus/src/buses/ArbitroMatricula.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -744,16 +668,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/musculacion/Maquina.java">
+    <entry file="file://$PROJECT_DIR$/prZonaMusculacion/src/musculacion/Zona.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/musculacion/Zona.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
           <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -761,17 +678,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainMusculacion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/musculacion/Musculacion.java">
+    <entry file="file://$PROJECT_DIR$/prZonaMusculacion/src/musculacion/Musculacion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="900">
           <caret line="65" column="69" selection-start-line="65" selection-start-column="69" selection-end-line="65" selection-end-column="69" />
@@ -792,10 +699,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prJardin/src/prJardin/Contador.java">
+    <entry file="file://$PROJECT_DIR$/prJardin/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        <state relative-caret-position="300">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -806,10 +713,143 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prJardin/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/prJardin/src/prJardin/Contador.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        <state relative-caret-position="135">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prZonaMusculacion/src/MainMusculacion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prZonaMusculacion/src/musculacion/Maquina.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prAltura/src/alturas/Pais.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prBus/src/buses/Bus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="30" selection-start-line="30" selection-end-line="32" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prAmigoInvisible/salida.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.241/Club.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-574" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prBus/src/buses.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prBus/src/buses/Servicio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="59" column="23" selection-start-line="59" selection-start-column="23" selection-end-line="59" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prAmigoInvisible/socios.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="67" lean-forward="true" selection-start-column="67" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prAmigoInvisible/src/amigos/Persona.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
+          <folding>
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
+            <element signature="e#624#625#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prAmigoInvisible/src/amigos/AmigoException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
+          <folding>
+            <element signature="e#103#104#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prAmigoInvisible/src/amigos/Club.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-end-line="1" />
+          <folding>
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#1156#1157#0" expanded="true" />
+            <element signature="e#1199#1200#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prAmigoInvisible/src/amigos/ClubParejas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prAmigoInvisible/src/amigos/Pareja.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
+          <folding>
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prAmigoInvisible/src/MainAmigoInvisible.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
         </state>
       </provider>
     </entry>
