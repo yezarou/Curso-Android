@@ -13,7 +13,7 @@ public class Jarra {
     public int contenido() { return contenido; }
     public void llena() { contenido = capacidad; }
     public void vacia() { contenido = 0; }
-    public void llenaDesde (Jarra j){
+    public void llenaDesde (Jarras.Jarra j){
         while (this.contenido < this.capacidad && j.contenido > 0){
             j.contenido--;
             this.contenido++;
