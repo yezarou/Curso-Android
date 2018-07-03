@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Ruben - Modulo 2.iml" filepath="$PROJECT_DIR$/Ruben - Modulo 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/prAltura/prAltura.iml" filepath="$PROJECT_DIR$/prAltura/prAltura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prAlturaKT/prAlturaKT.iml" filepath="$PROJECT_DIR$/prAlturaKT/prAlturaKT.iml" />
       <module fileurl="file://$PROJECT_DIR$/prAmigoInvisible/prAmigoInvisible.iml" filepath="$PROJECT_DIR$/prAmigoInvisible/prAmigoInvisible.iml" />
       <module fileurl="file://$PROJECT_DIR$/prBus/prBus.iml" filepath="$PROJECT_DIR$/prBus/prBus.iml" />
       <module fileurl="file://$PROJECT_DIR$/prCPI/prCPI.iml" filepath="$PROJECT_DIR$/prCPI/prCPI.iml" />
@@ -14,6 +15,8 @@
       <module fileurl="file://$PROJECT_DIR$/prLibreriaV2/prLibreriaV2.iml" filepath="$PROJECT_DIR$/prLibreriaV2/prLibreriaV2.iml" />
       <module fileurl="file://$PROJECT_DIR$/prLibreriaV3/prLibreriaV3.iml" filepath="$PROJECT_DIR$/prLibreriaV3/prLibreriaV3.iml" />
       <module fileurl="file://$PROJECT_DIR$/prMasterMind/prMasterMind.iml" filepath="$PROJECT_DIR$/prMasterMind/prMasterMind.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prPuntov1/prPuntov1.iml" filepath="$PROJECT_DIR$/prPuntov1/prPuntov1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prPuntov2/prPuntov2.iml" filepath="$PROJECT_DIR$/prPuntov2/prPuntov2.iml" />
       <module fileurl="file://$PROJECT_DIR$/prStereograma/prStereograma.iml" filepath="$PROJECT_DIR$/prStereograma/prStereograma.iml" />
       <module fileurl="file://$PROJECT_DIR$/prTema5/prTema5.iml" filepath="$PROJECT_DIR$/prTema5/prTema5.iml" />
       <module fileurl="file://$PROJECT_DIR$/prTema6/prTema6.iml" filepath="$PROJECT_DIR$/prTema6/prTema6.iml" />

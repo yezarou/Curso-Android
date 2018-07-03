@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyRobot</string>
+    <string name="stringRobotin">Fotillo de Robotin</string>
+    <string name="stringRed">Rojo</string>
+    <string name="stringGreen">Verde</string>
+    <string name="stringBlue">Azul</string>
+</resources>
