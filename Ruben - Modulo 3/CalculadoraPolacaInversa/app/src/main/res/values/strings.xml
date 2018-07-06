@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculadora Polaca Inversa</string>
+    <string name="BotonEntrada">Entra</string>
+    <string name="BotonSuma">Suma</string>
+    <string name="BotonResta">Resta</string>
+    <string name="BotonMulti">Mult</string>
+    <string name="BotonDivide">Divide</string>
+    <string name="BotonRes">Res</string>
+    <string name="StringResultado" >Resultado???</string>
+</resources>

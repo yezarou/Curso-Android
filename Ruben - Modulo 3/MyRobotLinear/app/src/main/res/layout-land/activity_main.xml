@@ -28,7 +28,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/botonRojo"
+            android:text="@string/botonColor"
             android:onClick="botonPulsado"
             android:textAllCaps="false" />
 
@@ -53,6 +53,15 @@
                 android:text="@string/radioVerde" />
 
         </RadioGroup>
+
+        <EditText
+            android:id="@+id/editText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="Name" />
 
     </LinearLayout>
 

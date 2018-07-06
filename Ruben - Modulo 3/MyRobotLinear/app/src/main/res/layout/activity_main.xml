@@ -30,7 +30,7 @@
             android:layout_gravity="center_vertical"
             android:layout_weight="1"
             android:onClick="botonPulsado"
-            android:text="@string/botonRojo"
+            android:text="@string/botonColor"
             android:textAllCaps="false" />
 
         <RadioGroup
@@ -56,6 +56,14 @@
         </RadioGroup>
 
     </LinearLayout>
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="color code"
+        android:inputType="textPersonName" />
 
     <ScrollView
         android:layout_width="wrap_content"
