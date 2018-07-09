@@ -2,8 +2,8 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
     android:layout_margin="5dp"
     android:orientation="vertical"
     tools:context=".MainActivity">
@@ -13,8 +13,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        android:contentDescription="@string/robotin"
-        android:onClick="robotPulsado"
+        android:contentDescription="@string/stringRobotin"
         app:srcCompat="@mipmap/ic_launcher" />
 
     <EditText
@@ -28,7 +27,6 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:gravity="center_horizontal"
         android:layout_gravity="center_vertical"
         android:orientation="horizontal">
 
@@ -38,8 +36,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_vertical"
             android:layout_weight="1"
-            android:onClick="botonPulsado"
-            android:text="@string/botonColor"
+            android:text="@string/stringRed"
             android:textAllCaps="false" />
 
         <RadioGroup
@@ -54,13 +51,13 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="@string/radioAzul" />
+                android:text="@string/stringBlue" />
 
             <RadioButton
                 android:id="@+id/radioButtonGreen"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/radioVerde" />
+                android:text="@string/stringGreen" />
 
         </RadioGroup>
 
@@ -75,7 +72,7 @@
             android:id="@+id/textView"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/stringTexto" />
+            android:text="@string/stringText" />
     </ScrollView>
 
 </LinearLayout>

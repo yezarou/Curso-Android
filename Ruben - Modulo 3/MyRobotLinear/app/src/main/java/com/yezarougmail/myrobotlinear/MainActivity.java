@@ -41,9 +41,9 @@ public class MainActivity extends AppCompatActivity {
                 case R.id.buttonRed:
                     Long ctl = Long.valueOf(0);
                     String sn = et.getText().toString();
-                    if (!sn.matches("")) {
+                    if (sn.matches("0x[0-9a-fA-F]{8}")) {
                         try {
-                            ctl = Long.parseLong(sn, 16);
+                            ctl = Long.parseLong(sn.substring(2), 16);
                             colorFondo = ctl.intValue();
                         } catch (Exception e) {
                             Log.i("Ruben", "Fallaso por aqui");
