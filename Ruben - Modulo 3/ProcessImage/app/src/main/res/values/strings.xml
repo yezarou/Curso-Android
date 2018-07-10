@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Process Image</string>
+    <string name="get_image">Get image</string>
+    <string name="convertbutton">convert</string>
+    <string-array name="filters">
+        <item>Blue Filter</item>
+        <item>Blue and Red change</item>
+        <item>Matrix Filter</item>
+        <item>Media Filter</item>
+        <item>Stereograma Filter</item>
+    </string-array>
+</resources>
