@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Process Image</string>
+    <string name="get_image">Get image</string>
+    <string name="textButtonProcess">Filter</string>
+    <string-array name="options">
+        <item>Blue</item>
+        <item>BlueThread</item>
+        <item>BlueExecutor</item>
+        <item>RedByBlue</item>
+        <item>Stereogram</item>
+        <item>Gray</item>
+        <item>Conv-edges</item>
+        <item>Conv-edges-Thread</item>
+        <item>Conv-edges-Executor</item>
+        <item>Conv-sharp</item>
+        <item>Conv-sharp-Thread</item>
+        <item>Conv-sharp-Executor</item>
+        <item>Conv-blur</item>
+        <item>Conv-blur-Thread</item>
+        <item>Conv-blur-Executor</item>
+    </string-array>
+</resources>
