@@ -46,3 +46,16 @@ Java_com_example_android9ed_firstnativeapp_MainActivity_stringFromJNI(
     hello = ss.str();
     return env->NewStringUTF(hello.c_str());
 }
+extern "C"
+JNIEXPORT jboolean JNICALL
+Java_com_example_android9ed_firstnativeapp_MainActivity_cierto(JNIEnv *env, jobject instance,
+                                                               jintArray a_, jfloatArray b_, jint size) {
+    jint *a = env->GetIntArrayElements(a_, NULL);
+    jfloat *b = env->GetFloatArrayElements(b_, NULL);
+
+    // TODO
+    for (int i = 0; i < size; i++) if (a[i]<b[i])
+
+    env->ReleaseIntArrayElements(a_, a, 0);
+    env->ReleaseFloatArrayElements(b_, b, 0);
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExamenSamsung2017</string>
+    <string name="inputString">Input Number:</string>
+    <string name="resetButton">Reset</string>
+    <string name="enterButton">Enter</string>
+    <string name="averageButton">Average</string>
+    <string name="resultString">Result:</string>
+    <string name="stringHint">Number</string>
+</resources>

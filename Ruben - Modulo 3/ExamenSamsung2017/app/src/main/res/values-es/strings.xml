@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ExamenSamsung2017</string>
+    <string name="inputString">Introduce un número:</string>
+    <string name="resetButton">Reset</string>
+    <string name="enterButton">Entrar</string>
+    <string name="averageButton">Media</string>
+    <string name="resultString">"Resultado: "</string>
+    <string name="stringHint">Número</string>
+</resources>

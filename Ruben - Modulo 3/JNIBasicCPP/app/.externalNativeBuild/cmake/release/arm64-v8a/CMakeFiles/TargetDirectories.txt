@@ -1,0 +1,3 @@
+C:/Users/android9ed/Desktop/Ruben/Curso-Android/Ruben - Modulo 3/JNIBasicCPP/app/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/android9ed/Desktop/Ruben/Curso-Android/Ruben - Modulo 3/JNIBasicCPP/app/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/basicjni.dir
+C:/Users/android9ed/Desktop/Ruben/Curso-Android/Ruben - Modulo 3/JNIBasicCPP/app/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/rebuild_cache.dir
