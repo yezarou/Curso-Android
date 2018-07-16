@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ExamenAndroid</string>
+    <string name="textViewArraySize">Tamaño Array</string>
+    <string name="arraySizeHint">tamaño_array</string>
+    <string name="cbPar">Paralelo</string>
+    <string name="BcompText">Calcula</string>
+    <string name="BinitText">Inicializa</string>
+    <string name="resultText">Tiempo (ms)</string>
+</resources>

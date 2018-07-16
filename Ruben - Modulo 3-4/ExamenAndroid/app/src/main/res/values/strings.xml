@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ExamenAndroid</string>
+    <string name="textViewArraySize">Array Size</string>
+    <string name="numthreadsText" translatable="false">Num threads</string>
+    <string name="arraySizeHint">array_size</string>
+    <string name="numThreadsHint" translatable="false">num_threads</string>
+    <string name="cbPar" >Parallel</string>
+    <string name="cbNativeText" translatable="false">C++</string>
+    <string name="BcompText">Compute</string>
+    <string name="BinitText" >Init array</string>
+    <string name="resultText">Time (ms)</string>
+</resources>
