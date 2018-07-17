@@ -12,11 +12,16 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.Toast;
 
+import io.michaelrocks.libphonenumber.android.NumberParseException;
+import io.michaelrocks.libphonenumber.android.PhoneNumberUtil;
+import io.michaelrocks.libphonenumber.android.Phonenumber.PhoneNumber;
+
 public class ActividadUno extends AppCompatActivity {
     public static String DatoEntrada = "DatoEntrada";
     EditText textoEntrada;
     String input;
     public static final int PERMISO_LLAMADA = 10;
+    public static final int REQUEST_CODE_ACTIVIDAD2 = 10;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -36,7 +41,7 @@ public class ActividadUno extends AppCompatActivity {
             case R.id.botonCalcular:
                 Intent actividadDos = new Intent(this, ActividadDos.class);
                 actividadDos.putExtra(DatoEntrada, input);
-                startActivity(actividadDos);
+                startActivityForResult(actividadDos, REQUEST_CODE_ACTIVIDAD2);
                 break;
             case R.id.botonLlamar:
                 opcionLlamar();
@@ -45,8 +50,7 @@ public class ActividadUno extends AppCompatActivity {
     }
 
     @Override
-    public void onRequestPermissionsResult(int requestCode,
-                                           String permissions[], int[] grantResults) {
+    public void onRequestPermissionsResult(int requestCode, String permissions[], int[] grantResults) {
         switch (requestCode) {
             case PERMISO_LLAMADA: {
                 if (grantResults.length > 0
@@ -56,17 +60,46 @@ public class ActividadUno extends AppCompatActivity {
                 } else {
                     Log.d("Actividades:Call", "Permiso Denegado");
                 }
-                return;
             }
         }
     }
 
     public void opcionLlamar() {
-        String telefonoURI = "tel:" + input;
-        Intent llamar = new Intent(Intent.ACTION_CALL, Uri.parse(telefonoURI));
-        if (ActivityCompat.checkSelfPermission(this, Manifest.permission.CALL_PHONE) != PackageManager.PERMISSION_GRANTED)
-            ActivityCompat.requestPermissions(this, new String[]{Manifest.permission.CALL_PHONE}, PERMISO_LLAMADA);
-        else
-            startActivity(llamar);
+        PhoneNumberUtil phoneUtil = PhoneNumberUtil.createInstance(this);
+
+        try {
+            PhoneNumber number = phoneUtil.parse(input, "ES");
+            if (phoneUtil.isValidNumber(number)) {
+                String telefonoURI = "tel:" + input;
+                Intent llamar = new Intent(Intent.ACTION_CALL, Uri.parse(telefonoURI));
+                if (ActivityCompat.checkSelfPermission(this, Manifest.permission.CALL_PHONE) != PackageManager.PERMISSION_GRANTED)
+                    ActivityCompat.requestPermissions(this, new String[]{Manifest.permission.CALL_PHONE}, PERMISO_LLAMADA);
+                else
+                    startActivity(llamar);
+            }
+            else
+                Toast.makeText(this, "El número introducido no es valido.", Toast.LENGTH_SHORT).show();
+        } catch (NumberParseException e) {
+            Toast.makeText(this, "Excepción: El número introducido no es valido.", Toast.LENGTH_SHORT).show();
+        }
+    }
+
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+
+        switch (requestCode) {
+            case REQUEST_CODE_ACTIVIDAD2:
+
+                if (resultCode == RESULT_OK) {
+                    int divisores = data.getIntExtra(ActividadDos.VALOR_DEVUELTO, -1);
+
+                    if (divisores == 2)
+                        Toast.makeText(this, "Numero primo", Toast.LENGTH_SHORT).show();
+                    else
+                        Toast.makeText(this, "Tiene " + divisores + " divisores", Toast.LENGTH_SHORT).show();
+                }
+            break;
+        }
     }
 }
