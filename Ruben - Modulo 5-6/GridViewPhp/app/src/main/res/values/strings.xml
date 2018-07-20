@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GridViewPhp</string>
+    <string name="stringButton">Ver Imagen</string>
+    <string name="stringHint">Introduzca un número</string>
+</resources>
