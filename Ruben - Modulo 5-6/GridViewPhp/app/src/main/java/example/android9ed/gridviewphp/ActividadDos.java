@@ -2,20 +2,24 @@ package example.android9ed.gridviewphp;
 
 import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.os.AsyncTask;
+import android.support.annotation.NonNull;
+import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Base64;
 import android.util.Log;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.AbsListView;
-import android.widget.Adapter;
-import android.widget.BaseAdapter;
+import android.widget.ArrayAdapter;
 import android.widget.GridView;
 import android.widget.ImageView;
+import android.widget.Toast;
 
+import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.net.URL;
@@ -25,64 +29,43 @@ public class ActividadDos extends AppCompatActivity {
     int img;
     GridView grd;
     public static ArrayList<Bitmap> imagenes = new ArrayList<Bitmap>();
+    ArrayList<String> imagenesStr;
+    ImageAdapter adapter;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_actividad_dos);
 
+        imagenesStr = new ArrayList<>();
         grd = findViewById(R.id.gridView);
-        Intent intent =  getIntent();
+        Intent intent = getIntent();
 
-        if (intent != null){
+        adapter = new ImageAdapter(this);
+        grd.setAdapter(adapter);
+
+        if (intent != null) {
             img = intent.getIntExtra("imagen", 0);
             DescargaImagen asyncTask = new DescargaImagen();
             asyncTask.execute("http://192.168.96.1:8080/images.php?n=" + img);
         }
-        ImageAdapter adaptador = new ImageAdapter(this, R.layout.item, imagenes);
-        grd.setAdapter(adaptador);
     }
-    public class ImageAdapter extends BaseAdapter {
+    public class ImageAdapter extends ArrayAdapter<Bitmap> {
+        Context contexto;
 
-        Context ctx;
-        int resource;
-        ArrayList lista;
-
-        public ImageAdapter(Context _ctx, int _resource, ArrayList _lista){
-            ctx = _ctx;
-            resource = _resource;
-            lista = _lista;
+        public ImageAdapter(Context context) {
+            super(context, 0);
+            contexto = context;
         }
 
+        @NonNull
         @Override
-        public int getCount() {
-            return lista.size();
-        }
+        public View getView(int position, @Nullable View convertView, @NonNull ViewGroup parent) {
+            ImageView imagen = new ImageView(contexto);
 
-        @Override
-        public Object getItem(int position) {
-            return null;
-        }
-
-        @Override
-        public long getItemId(int position) {
-            return 0;
-        }
-
-        @Override
-        public View getView(int position, View convertView, ViewGroup parent) {
-            ImageView img;
-
-            if (convertView == null) { //Nuevo es necesario
-                img = new ImageView(ctx);
-                img.setLayoutParams(new AbsListView.LayoutParams(85, 85));
-                img.setScaleType(ImageView.ScaleType.CENTER_CROP);
-                img.setPadding(8, 8, 8, 8);
-            } else { //Reciclado, ya creado
-                img = (ImageView) convertView;
-            }
-            img.setImageBitmap((Bitmap)lista.get(position));
-            return img;
+            Bitmap bitmap = getItem(position);
+            imagen.setImageBitmap(bitmap);
+            return imagen;
         }
     }
     public class DescargaImagen extends AsyncTask<String, Void, Bitmap>{
@@ -98,14 +81,52 @@ public class ActividadDos extends AppCompatActivity {
             } catch (IOException e) {
                 Log.d("ERROR", e.getMessage());
             }
-
+            imagenes.add(bm);
             return bm;
         }
 
         @Override
         protected void onPostExecute(Bitmap bitmap) {
-            imagenes.add(bitmap);
+            for (Bitmap imagen : imagenes)
+                adapter.add(imagen);
             super.onPostExecute(bitmap);
         }
+    }
+
+    private String crearCadena(){
+        String cadena="";
+
+        for(String img : imagenesStr){
+            cadena += img;
+            cadena += ",";
+        }
+        cadena.substring(0, cadena.length()-1);
+
+        return cadena;
+    }
+
+    private void guardar(){
+        SharedPreferences settings = getSharedPreferences("Hola", 0);
+        SharedPreferences.Editor editor = settings.edit();
+
+        editor.putString("ListaImagenes", crearCadena());
+    }
+
+    private String encode(Bitmap bitmap){
+        int quality=100;
+
+        ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream();
+        bitmap.compress(Bitmap.CompressFormat.PNG, quality, byteArrayOutputStream);
+        byte[] byteArray = byteArrayOutputStream.toByteArray();
+
+        String encodedImage = Base64.encodeToString(byteArray, Base64.DEFAULT);
+        return encodedImage;
+    }
+
+    private Bitmap decode(String bitmapStr){
+        byte[] decodedString = Base64.decode(bitmapStr, Base64.DEFAULT);
+        Bitmap decodedByte = BitmapFactory.decodeByteArray(decodedString, 0, decodedString.length);
+
+        return decodedByte;
     }
 }

@@ -27,14 +27,15 @@ public class MainActivity extends AppCompatActivity {
         try {
             int numero = Integer.parseInt(txt.getText().toString());
             if (numero <= 0 || numero >= 196)
-                Toast.makeText(this, "El número debe estar entre 1 y 195.", Toast.LENGTH_SHORT);
+                Toast.makeText(this, "El número debe estar entre 1 y 195.", Toast.LENGTH_SHORT).show();
             else {
                 Intent ventana = new Intent(this, ActividadDos.class);
                 ventana.putExtra("imagen", numero);
                 startActivity(ventana);
+                txt.setText("");
             }
         } catch (Exception e){
-            Toast.makeText(this, "Debe ser un número valido.", Toast.LENGTH_SHORT);
+            Toast.makeText(this, "Debe ser un número valido.", Toast.LENGTH_SHORT).show();
         }
     }
 }
