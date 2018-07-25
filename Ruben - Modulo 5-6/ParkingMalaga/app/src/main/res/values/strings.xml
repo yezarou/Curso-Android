@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ParkingMalaga</string>
+    <string name="stringTextview">Parkings Málaga</string>
+    <string name="btngrafico">Gráfico</string>
+    <string name="btnmaps">Maps</string>
+    <string name="btnload">Load</string>
+    <string name="btncercano">Cercano</string>
+</resources>
